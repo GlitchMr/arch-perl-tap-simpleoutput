@@ -1,11 +1,11 @@
  # Maintainer: Konrad Borowski <glitchmr@myopera.com>
 pkgname=perl-tap-simpleoutput
 pkgver=0.001
-pkgrel=1
+pkgrel=2
 pkgdesc='Simple closure-driven TAP generator'
 arch=('any')
 url='https://metacpan.org/module/TAP::SimpleOutput'
-license=('LGPL')
+license=('LGPL2')
 depends=('perl-sub-exporter')
 makedepends=('perl-file-temp')
 provides=()
